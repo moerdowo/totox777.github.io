@@ -1,0 +1,4 @@
+baseURL = "http://moerdowo.me/"
+languageCode = "en-us"
+title = "Moerdowo"
+theme = "hermit"
