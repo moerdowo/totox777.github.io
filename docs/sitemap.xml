@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://moerdowo.me/categories/</loc>
+    <loc>https://moerdowo.me/posts/init/</loc>
+    <lastmod>2019-07-12T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://moerdowo.me/</loc>
+    <lastmod>2019-07-12T11:36:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://moerdowo.me/</loc>
+    <loc>https://moerdowo.me/posts/</loc>
+    <lastmod>2019-07-12T11:36:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://moerdowo.me/tags/</loc>
+    <loc>https://moerdowo.me/tags/</loc>
+    <lastmod>2019-07-12T11:36:33+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moerdowo.me/tags/startup/</loc>
+    <lastmod>2019-07-12T11:36:33+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moerdowo.me/tags/techology/</loc>
+    <lastmod>2019-07-12T11:36:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   

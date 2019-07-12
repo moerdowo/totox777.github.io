@@ -2,13 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Moerdowo</title>
-    <link>http://moerdowo.me/tags/</link>
+    <link>https://moerdowo.me/tags/</link>
     <description>Recent content in Tags on Moerdowo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Moerdowo 2020</copyright>
+    <lastBuildDate>Fri, 12 Jul 2019 11:36:33 +0800</lastBuildDate>
     
-	<atom:link href="http://moerdowo.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moerdowo.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>startup</title>
+      <link>https://moerdowo.me/tags/startup/</link>
+      <pubDate>Fri, 12 Jul 2019 11:36:33 +0800</pubDate>
+      
+      <guid>https://moerdowo.me/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techology</title>
+      <link>https://moerdowo.me/tags/techology/</link>
+      <pubDate>Fri, 12 Jul 2019 11:36:33 +0800</pubDate>
+      
+      <guid>https://moerdowo.me/tags/techology/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
