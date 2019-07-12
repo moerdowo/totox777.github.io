@@ -10,4 +10,3 @@ Some of my projects:
 * https://jarvis-store.com
 * https://jarvislabs.xyz
 * https://graphteon.io
-
