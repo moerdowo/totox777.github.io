@@ -5,7 +5,7 @@ draft: false
 featuredImg: ""
 tags: 
   - startup
-  - tech
+  - techology
 ---
 
 Love the simplicity of Hugo for static web development. Building **GraphQL as a service** now, hope can be integrated in near future.
